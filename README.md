@@ -9,18 +9,6 @@ CC猫 Codex 桌宠项目（9 状态版）。
 - `STATE_MAP.md`: 状态映射说明
 - `assets/raw/`: 原始 GIF 素材
 
-## 9 状态映射
-
-1. `Idle` -> `assets/raw/idle_IMG_4005.GIF`
-2. `Run right` -> `assets/raw/run_1500890024_5975c3a87afe3.gif`
-3. `Run left` -> `assets/raw/run_1500890024_5975c3a87afe3.gif`（镜像）
-4. `Waving` -> `assets/raw/waving_2411305798.gif`
-5. `Jumping` -> `assets/raw/jumping_2411306119.gif`
-6. `Failed` -> `assets/raw/failed_1723855656313.gif`
-7. `Waiting` -> `assets/raw/waiting_IMG_4007.GIF`
-8. `Running` -> `assets/raw/running_2410518049.gif`
-9. `Review` -> `assets/raw/review_1723856236367.gif`
-
 ## 原始素材预览
 
 ### Idle
