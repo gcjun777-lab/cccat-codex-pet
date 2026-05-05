@@ -1,0 +1,7 @@
+{
+  "id": "cc-cat",
+  "displayName": "CC猫",
+  "description": "A chubby cream cartoon cat with playful expressions and meme-style reactions.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "animal"
+}
