@@ -1,5 +1,13 @@
 # cccat-codex-pet
 
+## 一键安装（推荐）
+
+```bash
+mkdir -p ~/.codex/pets && rm -rf ~/.codex/pets/cc-cat && git clone https://github.com/gcjun777-lab/cccat-codex-pet.git ~/.codex/pets/cc-cat
+```
+
+安装后在 Codex 中输入 `/pet`，选择 `CC猫`。
+
 CC猫 Codex 桌宠项目（9 状态版）。
 
 ## 项目文件
