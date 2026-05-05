@@ -10,6 +10,12 @@ mkdir -p ~/.codex/pets && rm -rf ~/.codex/pets/cc-cat && git clone https://githu
 
 CC猫 Codex 桌宠项目（9 状态版）。
 
+## 最新版本更新
+
+- `Idle` 调整为 3 帧循环（`ABCABCAB`），提升体感帧率
+- `Running` 使用稳定边界裁切，修复动画大小抖动
+- `Review` 当前使用 `1723855656313.gif`
+
 ## 项目文件
 
 - `pet.json`: 桌宠元数据
